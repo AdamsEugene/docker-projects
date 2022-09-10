@@ -1,0 +1,101 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/.DS_Store": true,
+		"**/*.pyc": true
+	},
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"prettier.printWidth": 100,
+	"cSpell.userWords": [
+		"acad",
+		"Appengine",
+		"ASQII",
+		"autoamountname",
+		"backend",
+		"borderless",
+		"Btns",
+		"checkmark",
+		"colourful",
+		"comparator",
+		"datastore",
+		"Dbase",
+		"deletable",
+		"Dismissable",
+		"draggables",
+		"Dropdown",
+		"flowtype",
+		"gapi",
+		"gcloud",
+		"gmail",
+		"hocs",
+		"hotpink",
+		"hoverable",
+		"IFNULL",
+		"Imgs",
+		"Ionicons",
+		"is",
+		"keyframes",
+		"linkify",
+		"localforage",
+		"Loda",
+		"mediumint",
+		"middlewares",
+		"njwt",
+		"NOCASE",
+		"Notif",
+		"nowrap",
+		"omniscio",
+		"onesignal",
+		"PICKLIST",
+		"Pushable",
+		"Putback",
+		"Putbacks",
+		"queuable",
+		"Replen",
+		"restockable",
+		"Restocker",
+		"resync",
+		"ROWID",
+		"schooldesk",
+		"Scrollable",
+		"Searchbar",
+		"selectable",
+		"SENDGRID",
+		"Skus",
+		"submodule",
+		"Submodules",
+		"trimable",
+		"trimmable",
+		"undoable",
+		"Unmount",
+		"UNPICKABLE",
+		"uploader",
+		"wifi",
+		"DAYNAME"
+	],
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"workbench.editorAssociations": {
+		"*.ipynb": "jupyter.notebook.ipynb"
+	},
+	"terminal.integrated.tabs.enabled": true,
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
